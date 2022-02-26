@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking forward to applying my new skills
    on small and effective projects as much as possible.
-- 📫 How to reach me: d.s.jaweny@gmail.com or via discord @spookyboo.exe#1802
+- 📫 How to reach me: duajaweny@gmail.com 
 
 <!---
 darkviiolet/darkviiolet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
