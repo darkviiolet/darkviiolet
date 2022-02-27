@@ -4,8 +4,3 @@
 - 💞️ I’m looking forward to applying my new skills
    on small and effective projects as much as possible.
 - 📫 How to reach me: duajaweny@gmail.com 
-
-<!---
-darkviiolet/darkviiolet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
